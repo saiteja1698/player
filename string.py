@@ -1,2 +1,2 @@
-t = "sai teja"[::-1]
+t = "aabbcc"[::-1]
 print(t)

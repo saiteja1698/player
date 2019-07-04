@@ -1,2 +1,3 @@
-t = "aabbcc"[::-1]
-print(t)
+st=str(input())
+rev=st[::-1]
+print(rev)
